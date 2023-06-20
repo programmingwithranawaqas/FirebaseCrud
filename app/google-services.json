@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589188380270",
+    "project_id": "r9fire-3dfb8",
+    "storage_bucket": "r9fire-3dfb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589188380270:android:8c09162875af259981d87f",
+        "android_client_info": {
+          "package_name": "com.example.r9fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589188380270-fd6pv6oha9njngt67u239qi7983muv2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh28DtXdylKNaM-JhQKR72GbZ_KIFTc64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589188380270-fd6pv6oha9njngt67u239qi7983muv2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
